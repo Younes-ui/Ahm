@@ -9,7 +9,7 @@
             margin: 50px;
             background-color: #f4f4f4;
         }
-        .container {
+        .container 
             background: white;
             padding: 20px;
             border-radius: 10px;
@@ -33,5 +33,4 @@
       <p><strong>عيد مبارك وتقبل الله منا صالح الاعمال  و اعاده الله لنا بلخير و البركة
       <p><small>ادعيلي نجيب الباك 😉</small></p>
     
-</body>
-</html>
+
